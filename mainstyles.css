@@ -1,0 +1,16 @@
+/* Change the body background colour */
+body {
+    background-color: lightblue;
+}
+
+/* Change link colour and remove underline */
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+/* Hover effect */
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
